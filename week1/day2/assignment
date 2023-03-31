@@ -1,0 +1,28 @@
+Assignment:1
+=========
+Create class as Tab
+Create a method as tabPrice with input argument as int tabPrice and add return type
+Create a method tabBrand(String brandName)with return type as string
+Create object for the tab class and call the methods and print in console to verify it
+Assignment: 2
+=========
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day1/assignments/PrimeNumber.java
+
+Assignment:3
+========
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day1/assignments/FibonacciSeries.java
+
+Assignment:4 
+=========
+Problem statement: Convert a negative number to positive number
+---------------------------------------------------------------
+Pseudocode:
+-----------
+1. Initialize an integer with a negative number
+   like, int number = -40;
+2. Check if the number is a negative number 
+   Hint : any number that is lesser than zero is a negative number
+3. If so, convert the number to a positive numer
+
+4. Print as below
+        "The number -40 is converted to 40"

@@ -1,0 +1,57 @@
+Week1.day1 Assignment
+Assignment 1: 
+
+Goal: To understand the class, main method and sysout
+
+a) Create a class by name: Browser
+b) Create a main method using shortcut
+c) print a statement --> "This is my Browser"
+d) run and confirm the printed in console
+
+Assignment 2:
+
+- Create package name as week1.day1 under src/main/java
+- Create a  new class as "Mobile" under week1.day1
+- Create 2 methods (makeCall() , sendMsg()) with simple print statement
+- In first method create variable  mobileModel (String),mobileWeight (float)
+- In second method create variable  isFullCharged (boolean),mobileCost (int)
+- Create main method
+Create object for class and call  from main method and print them
+- print a statement---->"This is my mobile";
+-run and confirm the output printed in console 
+
+Assignment 3: Call a method from another class
+
+Goal: To understand the object, method and return type.
+
+a) Create a package by name: week1.day1
+b) Create a class by name: Chrome (with no main method) in the above package
+c) 1.Create a method by name: getName() (i.e. public void getName())
+   2.Create a method by name: PrintName() (i.e. public void PrintName())
+d) Print a statement inside the method --> "This is google chrome"
+e) Create one more class Name Browser
+f) Call the method getName(),PrintName() from class: Browser using object reference
+g) Run Browser class and Confirm the printed in console
+
+Assignment 4:
+========== 
+Create package name as week1.day1 under src/main/java
+- Create a  new class as "Car" under week1.day1
+- Create 2 methods(applyBreak(),soundHorn())
+applyBreak(){print as Applied break}
+soundHorn(){print as sound horn}
+-Create another class as Bike
+-Call the methods of Car class in BikeClass by creating object for Car class and Bike Class
+Hint Create two objects for the two classess
+
+Assignment:5
+=========
+Create Class Student
+declare variables
+studentName
+rollNo
+collegeName
+markScored
+cgpa
+
+Create a class Report and create object for student class in main method and print all the variables
